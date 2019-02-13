@@ -14,6 +14,10 @@ To control your device (i.e., emulating the controlling computer) you can also u
 
 Log in to the aws platform using this link: [https://cloudway-depesst.signin.aws.amazon.com/console](https://cloudway-depesst.signin.aws.amazon.com/console). The node-red application is deployed on the following link: [http://ec2co-ecsel-3ri3xcal4qrm-307054888.eu-west-1.elb.amazonaws.com](http://ec2co-ecsel-3ri3xcal4qrm-307054888.eu-west-1.elb.amazonaws.com)
 
+The IoT gateway endpoint is as follows: [a2fbpamljtm0ue-ats.iot.eu-west-1.amazonaws.com](a2fbpamljtm0ue-ats.iot.eu-west-1.amazonaws.com)
+
+
+
 ## List of use cases
 
 Below you will find a list of possible use cases. However, you are allowed to be creative in your implementation of the use cases. You may also create an extra use case if you so desire.
